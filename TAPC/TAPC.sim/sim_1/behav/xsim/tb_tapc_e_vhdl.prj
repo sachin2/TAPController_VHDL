@@ -1,0 +1,14 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../TAPC.srcs/sources_1/new/DataReg_e.vhd" \
+"../../../../TAPC.srcs/sources_1/new/DataReg_a.vhd" \
+"../../../../TAPC.srcs/sources_1/new/FSM_e.vhd" \
+"../../../../TAPC.srcs/sources_1/new/FSM_a.vhd" \
+"../../../../TAPC.srcs/sources_1/new/InstrReg_e.vhd" \
+"../../../../TAPC.srcs/sources_1/new/InstrReg_a.vhd" \
+"../../../../TAPC.srcs/sources_1/new/TAP_e.vhd" \
+"../../../../TAPC.srcs/sources_1/new/TAP_a.vhd" \
+"../../../../TAPC.srcs/sim_1/imports/TejTAPC/tb_tapc.vhd" \
+
+# Do not sort compile order
+nosort

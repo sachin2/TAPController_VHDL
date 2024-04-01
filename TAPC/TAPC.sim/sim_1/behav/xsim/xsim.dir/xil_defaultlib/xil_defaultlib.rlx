@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/TAPC/TAPC.srcs/sim_1/imports/TejTAPC/tb_tapc.vhd,1704368681,vhdl,,,,tb_tapc_e,,,,,,,,
+C:/TAPC/TAPC.srcs/sources_1/new/DataReg_a.vhd,1704257818,vhdl,,,,,,,,,,,,
+C:/TAPC/TAPC.srcs/sources_1/new/DataReg_e.vhd,1704252715,vhdl,C:/TAPC/TAPC.srcs/sources_1/new/DataReg_a.vhd,,,datareg_e,,,,,,,,
+C:/TAPC/TAPC.srcs/sources_1/new/FSM_a.vhd,1704368340,vhdl,,,,,,,,,,,,
+C:/TAPC/TAPC.srcs/sources_1/new/FSM_e.vhd,1704299891,vhdl,C:/TAPC/TAPC.srcs/sources_1/new/FSM_a.vhd,,,fsm_e,,,,,,,,
+C:/TAPC/TAPC.srcs/sources_1/new/InstrReg_a.vhd,1704299718,vhdl,,,,,,,,,,,,
+C:/TAPC/TAPC.srcs/sources_1/new/InstrReg_e.vhd,1704285060,vhdl,C:/TAPC/TAPC.srcs/sources_1/new/InstrReg_a.vhd,,,instrreg_e,,,,,,,,
+C:/TAPC/TAPC.srcs/sources_1/new/TAP_a.vhd,1704309243,vhdl,,,,,,,,,,,,
+C:/TAPC/TAPC.srcs/sources_1/new/TAP_e.vhd,1704300541,vhdl,C:/TAPC/TAPC.srcs/sources_1/new/TAP_a.vhd,,,tapc_e,,,,,,,,
